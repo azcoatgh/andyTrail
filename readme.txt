@@ -16,5 +16,3 @@ another change
 
   branch 314
   after 2-->3
-
-  branch 5   edit 1
