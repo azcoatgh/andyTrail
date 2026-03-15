@@ -19,3 +19,5 @@ another change
 
   branch 6
     after 2-->3
+
+Branch 7
